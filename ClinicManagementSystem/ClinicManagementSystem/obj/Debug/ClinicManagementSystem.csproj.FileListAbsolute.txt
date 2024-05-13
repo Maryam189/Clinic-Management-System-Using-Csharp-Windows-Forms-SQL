@@ -1,0 +1,13 @@
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.DoctorPanel.resources
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.Form1.resources
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.Properties.Resources.resources
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.GenerateResource.cache
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.exe
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.pdb
+C:\Users\Maryam\Documents\Semester 5\DB Lab\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.AdminPanel.resources
